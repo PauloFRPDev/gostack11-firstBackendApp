@@ -12,8 +12,8 @@ Before each request, a middleware is called and returns a console log with the H
 - Nodemon - to automatically restarts de node server when the file is saved.
 
 ## How to run this program?
-1- you need to clone this repository using 'git clone https://github.com/PauloFRPDev/gostack11-firstBackendApp.git'
-2- open the project folder into your favorite IDE
-3- run 'yarn' if you use yarn or 'npm install' if you use npm
-4- run 'yarn dev' or 'npm run dev'
-5- be happy 😃
+1. you need to clone this repository using 'git clone https://github.com/PauloFRPDev/gostack11-firstBackendApp.git'
+2. open the project folder into your favorite IDE
+3. run 'yarn' if you use yarn or 'npm install' if you use npm
+4. run 'yarn dev' or 'npm run dev'
+5. be happy 😃
