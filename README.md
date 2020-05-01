@@ -5,7 +5,7 @@ Before each request, a middleware is called and returns a console log with the H
 
 ## Libraries used in this project
 ### Production
-- Express - to handle with routes
+- Express
 - uuidv4 - to generate uuids
 
 ### Development
